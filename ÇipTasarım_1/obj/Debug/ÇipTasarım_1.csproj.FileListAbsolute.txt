@@ -1,0 +1,7 @@
+C:\Users\silak\source\repos\ÇipTasarım_1\ÇipTasarım_1\bin\Debug\ÇipTasarım_1.exe.config
+C:\Users\silak\source\repos\ÇipTasarım_1\ÇipTasarım_1\bin\Debug\ÇipTasarım_1.exe
+C:\Users\silak\source\repos\ÇipTasarım_1\ÇipTasarım_1\bin\Debug\ÇipTasarım_1.pdb
+C:\Users\silak\source\repos\ÇipTasarım_1\ÇipTasarım_1\obj\Debug\ÇipTasarım_1.csproj.AssemblyReference.cache
+C:\Users\silak\source\repos\ÇipTasarım_1\ÇipTasarım_1\obj\Debug\ÇipTasarım_1.csproj.CoreCompileInputs.cache
+C:\Users\silak\source\repos\ÇipTasarım_1\ÇipTasarım_1\obj\Debug\ÇipTasarım_1.exe
+C:\Users\silak\source\repos\ÇipTasarım_1\ÇipTasarım_1\obj\Debug\ÇipTasarım_1.pdb
